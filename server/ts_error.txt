@@ -1,0 +1,6 @@
+base-expo-template/app/_layout.tsx(1,23): error TS2307: Cannot find module 'expo-router' or its corresponding type declarations.
+base-expo-template/app/_layout.tsx(4,10): error TS2875: This JSX tag requires the module path 'react/jsx-runtime' to exist, but none could be found. Make sure you have types for the appropriate package installed.
+src/routes/generate.ts(44,20): error TS2345: Argument of type 'string | string[] | undefined' is not assignable to parameter of type 'string'.
+  Type 'undefined' is not assignable to type 'string'.
+src/routes/generate.ts(47,25): error TS2345: Argument of type 'string | string[] | undefined' is not assignable to parameter of type 'string'.
+  Type 'undefined' is not assignable to type 'string'.
